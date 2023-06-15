@@ -41,6 +41,7 @@
 		C24E25252A37FA97007A63D6 /* GetDessert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetDessert.swift; sourceTree = "<group>"; };
 		C26C3C412A39879E00FFBC04 /* DessertRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DessertRow.swift; sourceTree = "<group>"; };
 		C26C3C432A398FB000FFBC04 /* DessertList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DessertList.swift; sourceTree = "<group>"; };
+		C27BF3162A3BCC910025A1BB /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		C29834EA2A39998A002FA49C /* DessertDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DessertDetail.swift; sourceTree = "<group>"; };
 		C2BFCEA62A3A85BD0098BAAF /* StructToDict.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StructToDict.swift; sourceTree = "<group>"; };
 		C2BFCEAC2A3AE50E0098BAAF /* DessertsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DessertsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -67,6 +68,7 @@
 		C24E250B2A37F9DC007A63D6 = {
 			isa = PBXGroup;
 			children = (
+				C27BF3162A3BCC910025A1BB /* README.md */,
 				C24E25162A37F9DC007A63D6 /* Desserts */,
 				C2BFCEAD2A3AE50E0098BAAF /* DessertsTests */,
 				C24E25152A37F9DC007A63D6 /* Products */,
