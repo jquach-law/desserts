@@ -61,8 +61,4 @@ final class GetDessertTest: XCTestCase {
         }
     }
     
-    func test_hello() {
-        let stringHello = "hello"
-    }
-    
 }
